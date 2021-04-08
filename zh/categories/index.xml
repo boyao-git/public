@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 姚脑师</title>
+    <link>https://boyao.science/zh/categories/</link>
+    <description>Recent content in Categories on 姚脑师</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://boyao.science/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>想法</title>
+      <link>https://boyao.science/zh/categories/%E6%83%B3%E6%B3%95/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/zh/categories/%E6%83%B3%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>科普</title>
+      <link>https://boyao.science/zh/categories/%E7%A7%91%E6%99%AE/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/zh/categories/%E7%A7%91%E6%99%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>视频</title>
+      <link>https://boyao.science/zh/categories/%E8%A7%86%E9%A2%91/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/zh/categories/%E8%A7%86%E9%A2%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>思考</title>
+      <link>https://boyao.science/zh/categories/%E6%80%9D%E8%80%83/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/zh/categories/%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>讲座</title>
+      <link>https://boyao.science/zh/categories/%E8%AE%B2%E5%BA%A7/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/zh/categories/%E8%AE%B2%E5%BA%A7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

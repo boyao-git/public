@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminars on Bo Yao</title>
+    <link>https://boyao.science/seminar/</link>
+    <description>Recent content in Seminars on Bo Yao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://boyao.science/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Neural Mechanisms of Inner Speech – MCR Neuroimaging Seminar</title>
+      <link>https://boyao.science/seminar/2020-06-25-the-neural-mechanisms-of-inner-speech-mcr-neuroimaging-seminar/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/seminar/2020-06-25-the-neural-mechanisms-of-inner-speech-mcr-neuroimaging-seminar/</guid>
+      <description>In this talk I started with a brief overview of inner speech research. I then explained why it was useful to study inner speech in reading and explored its underlying neural mechanisms. At the end I dabbled in the possible interactions between inner speech and Theory of Mind.</description>
+    </item>
+    
+  </channel>
+</rss>

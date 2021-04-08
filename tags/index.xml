@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bo Yao</title>
+    <link>https://boyao.science/tags/</link>
+    <description>Recent content in Tags on Bo Yao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://boyao.science/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Richard Faynman</title>
+      <link>https://boyao.science/tags/richard-faynman/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/tags/richard-faynman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://boyao.science/tags/science/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://boyao.science/tags/thoughts/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inner speech</title>
+      <link>https://boyao.science/tags/inner-speech/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/tags/inner-speech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

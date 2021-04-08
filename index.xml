@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Yao</title>
+    <link>https://boyao.science/</link>
+    <description>Recent content on Bo Yao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://boyao.science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Pleasure of Finding Things Out</title>
+      <link>https://boyao.science/post/2021-04-06-the-pleasure-of-finding-things-out-%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B9%90%E8%B6%A3/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/post/2021-04-06-the-pleasure-of-finding-things-out-%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B9%90%E8%B6%A3/</guid>
+      <description>I watched BBC Horizon&amp;rsquo;s interview with Richard Faynman, which was first broadcasted around 40 years ago.
+The episode is called [The Pleasure of Finding Things Out]. I was intrigued by the title wanted to find out what he said about &amp;lsquo;finding out&amp;rsquo;. Plus I couldn&amp;rsquo;t resist his big smile in the thumbnail.
+Faynman was one of the greatest physicists of all time. Although he was not born in an academic family, his father had heavy influences on his later scientific career.</description>
+    </item>
+    
+    <item>
+      <title>The Neural Mechanisms of Inner Speech – MCR Neuroimaging Seminar</title>
+      <link>https://boyao.science/seminar/2020-06-25-the-neural-mechanisms-of-inner-speech-mcr-neuroimaging-seminar/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/seminar/2020-06-25-the-neural-mechanisms-of-inner-speech-mcr-neuroimaging-seminar/</guid>
+      <description>In this talk I started with a brief overview of inner speech research. I then explained why it was useful to study inner speech in reading and explored its underlying neural mechanisms. At the end I dabbled in the possible interactions between inner speech and Theory of Mind.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://boyao.science/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/aboutme/</guid>
+      <description>I am a curious tinkerer. I am curious just about everything and will give most things a try to understand it a bit more. If I happened to like something, I will keep tinkering with it until it becomes mine.
+My daily routine involves solving problems, building stuff, analysing data, and pondering ideas. I specialise in cognitive neuroscience of language. My current research interest is all about that little voice you hear in your head (a form of mental self talk or verbal imagery) when you think, read and memorise verbal information.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://boyao.science/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://boyao.science/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyao.science/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>
