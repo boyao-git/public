@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/boyaosci/public_html/
+    - https://github.com/boyao-git/public/ -R images $DEPLOYPATH
