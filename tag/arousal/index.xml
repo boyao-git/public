@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arousal | Bo Yao</title>
+    <link>https://boyao.science/tag/arousal/</link>
+      <atom:link href="https://boyao.science/tag/arousal/index.xml" rel="self" type="application/rss+xml" />
+    <description>arousal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boyao.science/media/icon_hu97d1e4cfeca1899ab2d337d9f34dabe3_3591_512x512_fill_lanczos_center_3.png</url>
+      <title>arousal</title>
+      <link>https://boyao.science/tag/arousal/</link>
+    </image>
+    
+    <item>
+      <title>The Glasgow Norms: Ratings of 5,500 words on nine scales</title>
+      <link>https://boyao.science/publication/2019-skbys-brm/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2019-skbys-brm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion word processing: Does mood make a difference?</title>
+      <link>https://boyao.science/publication/2015-ssyto-frontierpsych/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2015-ssyto-frontierpsych/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

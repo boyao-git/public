@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phase synchrony | Bo Yao</title>
+    <link>https://boyao.science/tag/phase-synchrony/</link>
+      <atom:link href="https://boyao.science/tag/phase-synchrony/index.xml" rel="self" type="application/rss+xml" />
+    <description>phase synchrony</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boyao.science/media/icon_hu97d1e4cfeca1899ab2d337d9f34dabe3_3591_512x512_fill_lanczos_center_3.png</url>
+      <title>phase synchrony</title>
+      <link>https://boyao.science/tag/phase-synchrony/</link>
+    </image>
+    
+    <item>
+      <title>Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?</title>
+      <link>https://boyao.science/publication/2021-ytbk-neuroimage/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2021-ytbk-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

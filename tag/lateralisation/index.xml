@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lateralisation | Bo Yao</title>
+    <link>https://boyao.science/tag/lateralisation/</link>
+      <atom:link href="https://boyao.science/tag/lateralisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>lateralisation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boyao.science/media/icon_hu97d1e4cfeca1899ab2d337d9f34dabe3_3591_512x512_fill_lanczos_center_3.png</url>
+      <title>lateralisation</title>
+      <link>https://boyao.science/tag/lateralisation/</link>
+    </image>
+    
+    <item>
+      <title>Walking blindfolded unveils unique contributions of behavioural approach and inhibition to lateral spatial bias</title>
+      <link>https://boyao.science/publication/2016-wavy-cognition/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2016-wavy-cognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

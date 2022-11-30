@@ -1,57 +1,1471 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bo Yao</title>
     <link>https://boyao.science/</link>
-    <description>Recent content on Bo Yao</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://boyao.science/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Pleasure of Finding Things Out</title>
-      <link>https://boyao.science/post/2021-04-06-the-pleasure-of-finding-things-out-%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B9%90%E8%B6%A3/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://boyao.science/post/2021-04-06-the-pleasure-of-finding-things-out-%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B9%90%E8%B6%A3/</guid>
-      <description>I watched BBC Horizon&amp;rsquo;s interview with Richard Feynman, which was first broadcasted around 40 years ago.
-The episode is called [The Pleasure of Finding Things Out]. I was intrigued by the title wanted to find out what he said about &amp;lsquo;finding out&amp;rsquo;. Plus I couldn&amp;rsquo;t resist his big smile in the thumbnail.
-Feynman was one of the greatest physicists of all time. Although he was not born in an academic family, his father had heavy influences on his later scientific career.</description>
-    </item>
+      <atom:link href="https://boyao.science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Yao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boyao.science/media/icon_hu97d1e4cfeca1899ab2d337d9f34dabe3_3591_512x512_fill_lanczos_center_3.png</url>
+      <title>Bo Yao</title>
+      <link>https://boyao.science/</link>
+    </image>
     
     <item>
-      <title>The Neural Mechanisms of Inner Speech – MCR Neuroimaging Seminar</title>
-      <link>https://boyao.science/seminar/2020-06-25-the-neural-mechanisms-of-inner-speech-mcr-neuroimaging-seminar/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://boyao.science/seminar/2020-06-25-the-neural-mechanisms-of-inner-speech-mcr-neuroimaging-seminar/</guid>
-      <description>In this talk I started with a brief overview of inner speech research. I then explained why it was useful to study inner speech in reading and explored its underlying neural mechanisms. At the end I dabbled in the possible interactions between inner speech and Theory of Mind.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://boyao.science/aboutme/</link>
+      <title>Embodied Cognition</title>
+      <link>https://boyao.science/research/embodied-cognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://boyao.science/aboutme/</guid>
-      <description>I am a curious tinkerer. I am curious just about everything and will give most things a try to understand it a bit more. If I happened to like something, I will keep tinkering with it until it becomes mine.
-My daily routine involves solving problems, building stuff, analysing data, and pondering ideas. I specialise in cognitive neuroscience of language. My current research interest is all about that little voice you hear in your head (a form of mental self talk or verbal imagery) when you think, read and memorise verbal information.</description>
+      <guid>https://boyao.science/research/embodied-cognition/</guid>
+      <description>&lt;p&gt;Cognition is founded on the vast experiences we learn through our body. Embodied cognition refers to the idea that all conceptual knowledge has to be grounded in our bodily experiences, rather than arbitrary linguistic symbols.&lt;/p&gt;
+&lt;p&gt;For example, RED can only be meaningful if it is grounded in the visual experience of red-ness. When we hear or read this word, our brain would re-activate, or &amp;lsquo;mentally simulate&amp;rsquo;, some of that learned visual experience for us to understand what RED means. In comparison, RED would not be represented in such ways for people who are born blind.&lt;/p&gt;
+&lt;p&gt;We are very interested in how &lt;em&gt;&lt;strong&gt;abstract concepts&lt;/strong&gt;&lt;/em&gt; like LOVE or TRUST are grounded in bodily experiences. Although they do not have direct referents in the physical world, new research suggests that abstract meaning could be supported by experiences inside the body in the emotional, introspective, and interoceptive (internal organs) domains. For example, our recent work asks how abstract concepts like TIME, IDEA, MISTAKE that are invisible to the eye can have size (e.g., &lt;em&gt;&amp;ldquo;Tomorrow is my big day&amp;rdquo;&lt;/em&gt;, &lt;em&gt;&amp;ldquo;I like big ideas&amp;rdquo;&lt;/em&gt;, &lt;em&gt;&amp;ldquo;I made a small mistake&amp;rdquo;&lt;/em&gt;)? It turns out that abstract size may be derived from how emotionally evoking the word is and from metaphorical associations with concrete words that do have size (e.g., &lt;em&gt;&amp;ldquo;The responsibility is like a mountain on my shoulders&amp;rdquo;&lt;/em&gt;). In other words, abstract concepts could use emotional experiences, or visual experiences of their concrete counterparts to represent its size.&lt;/p&gt;
+&lt;p&gt;Understanding conceptual processing is a challenge but also good fun. There are many questions that fascinate us, for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How are embodied representations of language flexibly activated across contexts and task demands?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the neurocomputational mechanisms of embodied mental simulations?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How do people who lack mental imagery understand concepts?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the relative contributions of linguistic and embodied experiences in conceptual processing? How do they change across contexts and lifespan?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in this area, and would like to work with us, please do &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;get in touch&lt;/a&gt;.&lt;br&gt;
+-&amp;ndash;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/&#34;&gt;Back to Research&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/psycholinguistics/&#34;&gt;Next Topic (Psycholinguistics)&lt;/a&gt;&lt;br&gt;
+-&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;example-papers-from-the-lab&#34;&gt;Example papers from the lab:&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;https://boyao.science/publication/2021-y-jocognition/&#34;&gt;Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech&lt;/a&gt;.
+  &lt;em&gt;Journal of Cognition, 4&lt;/em&gt;(1), 6.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2021-y-jocognition/2021-Y-JoCognition.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.5334/joc.141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Anne Keitel&lt;/span&gt;, &lt;span &gt;
+      Gillian Bruce&lt;/span&gt;, &lt;span &gt;
+      Graham G. Scott&lt;/span&gt;, &lt;span &gt;
+      Patrick J. O&amp;#39;Donnell&lt;/span&gt;, &lt;span &gt;
+      Sara C. Sereno&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://boyao.science/publication/2018-ykbsos-jeplmc/&#34;&gt;Differential emotional processing in concrete and abstract words&lt;/a&gt;.
+  &lt;em&gt;Journal of Experimental Psychology: Learning, Memory and Cognition, 44&lt;/em&gt;(7), 1064-1074.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2018-ykbsos-jeplmc/2018-YKBSOS-JEPLMC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1037/xlm0000464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Milica Vasiljevic&lt;/span&gt;, &lt;span &gt;
+      Mario Weick&lt;/span&gt;, &lt;span &gt;
+      Margaret E. Sereno&lt;/span&gt;, &lt;span &gt;
+      Patrick J. O&amp;#39;Donnell&lt;/span&gt;, &lt;span &gt;
+      Sara C. Sereno&lt;/span&gt;
+  &lt;/span&gt;
+  (2013).
+  &lt;a href=&#34;https://boyao.science/publication/2013-yvwsos-plosone/&#34;&gt;Semantic size of abstract concepts: It gets emotional when you can’t see it&lt;/a&gt;.
+  &lt;em&gt;PLoS ONE, 8&lt;/em&gt;(9), e75000.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2013-yvwsos-plosone/2013-YVWSOS-PlosONE.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1371/journal.pone.0075000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://boyao.science/archives/</link>
+      <title>Psycholinguistics</title>
+      <link>https://boyao.science/research/psycholinguistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://boyao.science/archives/</guid>
-      <description>archives</description>
+      <guid>https://boyao.science/research/psycholinguistics/</guid>
+      <description>&lt;p&gt;Our rich, embodied experiences are compressed, structured and extended by a symbolic system called language so we can think and communicate efficiently and creatively.&lt;/p&gt;
+&lt;p&gt;For example, if I want to talk about an iconic Italian food, I do not have to mime, or draw a round-shaped bread with toppings every single time. I just say &amp;lsquo;pizza&amp;rsquo;, and you know what it is. It is very efficient.&lt;/p&gt;
+&lt;p&gt;We are very interested in how sentence prosody (i.e. intonation, rhythm) interacts with syntactic processing and how structural representations are implemented in neurocognitive systems. We also work on attention models of eye movements in reading, how reading direction of a language (e.g,. English vs. Hebrew) affects the spatial representation of sentence meaning, and how subject-prominent languages (e.g., English) vs. topic-prominent languages (e.g., Mandarin Chinese) may be represented in different structures.&lt;/p&gt;
+&lt;p&gt;Psycholinguistics is a hard science and great fun, according to psycholinguists. People have been playing with languages for decades yet there are still many questions that baffle us to this day, for instance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Is attention allocated to single words serially or to multiple words in parallel in reading (debate is still ongoing)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is syntactic structure &amp;rsquo;embodied&amp;rsquo; in prosody (a sensory experience)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Does syntactic flexibility (i.e. some languages have flexible word order) reflect flexibility in the structural representation?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How is hierarchical structure (e.g., sentences with sub-clauses) represented neurocomputationally?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are a geek who is into good old psycholinguistics, and want to work together, please do &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;get in touch&lt;/a&gt; :)&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/embodied-cognition/&#34;&gt;Last Topic (Embodied Cognition)&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/inner-speech/&#34;&gt;Next Topic (Inner Speech)&lt;/a&gt;&lt;br&gt;
+-&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;example-papers&#34;&gt;Example Papers&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Graham G. Scott&lt;/span&gt;, &lt;span &gt;
+      Anne Keitel&lt;/span&gt;, &lt;span &gt;
+      Marc Becirspahic&lt;/span&gt;, &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Sara C. Sereno&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://boyao.science/publication/2019-skbys-brm/&#34;&gt;The Glasgow Norms: Ratings of 5,500 words on nine scales&lt;/a&gt;.
+  &lt;em&gt;Behavior Research Methods, 51&lt;/em&gt;(3), 1258-1270.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2019-skbys-brm/2019-SKBYS-BRM.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.3758/s13428-018-1099-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       Sara C. Sereno&lt;/span&gt;, &lt;span &gt;
+       Christopher J. Hand&lt;/span&gt;, &lt;span &gt;
+       Aisha Shahid&lt;/span&gt;, &lt;span class=&#34;author-highlighted&#34;&gt;
+       Bo Yao&lt;/span&gt;, &lt;span &gt;
+       Patrick J. O&amp;#39;Donnell&lt;/span&gt;
+   &lt;/span&gt;
+   (2018).
+   &lt;a href=&#34;https://boyao.science/publication/2018-shsyo-qjep/&#34;&gt;Testing the limits of contextual constraint: Interactions with word frequency and parafoveal preview during fluent reading&lt;/a&gt;.
+   &lt;em&gt;Quarterly Journal of Experimental Psychology, 71&lt;/em&gt;(1), 302-313.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2018-shsyo-qjep/2018-SHSYO-QJEP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1080/17470218.2017.1327981&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span class=&#34;author-highlighted&#34;&gt;
+       Bo Yao&lt;/span&gt;, &lt;span &gt;
+       Anne Keitel&lt;/span&gt;, &lt;span &gt;
+       Gillian Bruce&lt;/span&gt;, &lt;span &gt;
+       Graham G. Scott&lt;/span&gt;, &lt;span &gt;
+       Patrick J. O&amp;#39;Donnell&lt;/span&gt;, &lt;span &gt;
+       Sara C. Sereno&lt;/span&gt;
+   &lt;/span&gt;
+   (2018).
+   &lt;a href=&#34;https://boyao.science/publication/2018-ykbsos-jeplmc/&#34;&gt;Differential emotional processing in concrete and abstract words&lt;/a&gt;.
+   &lt;em&gt;Journal of Experimental Psychology: Learning, Memory and Cognition, 44&lt;/em&gt;(7), 1064-1074.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2018-ykbsos-jeplmc/2018-YKBSOS-JEPLMC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1037/xlm0000464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       Sara C. Sereno&lt;/span&gt;, &lt;span &gt;
+       Graham G. Scott&lt;/span&gt;, &lt;span class=&#34;author-highlighted&#34;&gt;
+       Bo Yao&lt;/span&gt;, &lt;span &gt;
+       Elske J. Thaden&lt;/span&gt;, &lt;span &gt;
+       Patrick J. O&amp;#39;Donnell&lt;/span&gt;
+   &lt;/span&gt;
+   (2015).
+   &lt;a href=&#34;https://boyao.science/publication/2015-ssyto-frontierpsych/&#34;&gt;Emotion word processing: Does mood make a difference?&lt;/a&gt;.
+   &lt;em&gt;Frontiers in Psychology, 6&lt;/em&gt;:1191.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2015-ssyto-frontierpsych/2015-SSYTO-FrontierPsych.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.3389/fpsyg.2015.01191&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Search</title>
-      <link>https://boyao.science/search/</link>
+      <title>Inner Speech</title>
+      <link>https://boyao.science/research/inner-speech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/research/inner-speech/</guid>
+      <description>&lt;p&gt;Inner speech, the experience of talking to oneself in the mind, is one of the most commonly experienced yet least scientifically understood mental activities.&lt;/p&gt;
+&lt;p&gt;For example, when you mind wanders off in a lecture, you may hear yourself say: &lt;em&gt;&amp;ldquo;Hmm&amp;hellip; What shall I have for lunch?&amp;rdquo;&lt;/em&gt; or &lt;em&gt;&amp;ldquo;Gosh! This lecture is really boring!&amp;rdquo;&lt;/em&gt;. When you try to remember a phone number, you rehearse the digits &amp;ldquo;071234&amp;hellip;&amp;rdquo; in your mind until you write it down.&lt;/p&gt;
+&lt;p&gt;In a nutshell, I&amp;rsquo;d like to think inner speech as conscious expressions of linguistically structured thoughts. Research on inner speech is quite limited, in both scope and methods. The reality is that inner speech takes many different forms and is likely supported by multiple mechanisms. In our lab, we are particularly interested in how inner speech&amp;rsquo;s diverse phenomenology (e.g., dialogic/monologic, intentional/spontaneous) is supported by neurocognitive mechanisms of the brain. Our current model involves a dual-stream mechanism where the phenomenological variety of inner speech are jointly supported by a mechanism based on &lt;a href=&#34;https://en.wikipedia.org/wiki/Corollary_discharge_theory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;corollary discharge&lt;/a&gt; and a mechanism based on perceptual simulation (re-activation of sensory experience). We use a combination of fMRI, EEG to characterise the neurophysiological signatures of inner speech in various task conditions, and use neurostimulation to examine its functional roles in cognition and consciousness, within and between individuals.&lt;/p&gt;
+&lt;p&gt;Studying inner speech is very interesting because it is a very intimate experience shared by most of us. It is also very challenging because it is too private to be directly observed by researchers. There are some crazy questions you can ask about inner speech, e.g.:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Do deaf people hear inner speech? (Apparantly they say they do - even for congenitally deaf individuals)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If they do, what is the nature / representation of their inner speech (perhaps inner speech is not so much about the sound)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Does sutterers&amp;rsquo; inner speech stutter?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Why do we need inner speech? Why is it there? (hard question! and apparently some people don&amp;rsquo;t have inner speech - you may be surprised - and how does their brain work then?)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The list is endless&amp;hellip;&lt;/p&gt;
+&lt;p&gt;So if this has not piqued your interest, I don&amp;rsquo;t know what will. Please &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;get in touch&lt;/a&gt; and let&amp;rsquo;s do something interesting :)&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/psycholinguistics/&#34;&gt;Last Topic (Psycholinguistics)&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/consciousness/&#34;&gt;Next Topic (Consciousness)&lt;/a&gt;&lt;br&gt;
+-&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;example-papers&#34;&gt;Example Papers:&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Jason R. Taylor&lt;/span&gt;, &lt;span &gt;
+      Briony Banks&lt;/span&gt;, &lt;span &gt;
+      Sonja A. Kotz&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;https://boyao.science/publication/2021-ytbk-neuroimage/&#34;&gt;Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?&lt;/a&gt;.
+  &lt;em&gt;NeuroImage, 239&lt;/em&gt;, 118313.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2021-ytbk-neuroimage/2021-YTBK-NeuroImage.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1016/j.neuroimage.2021.118313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Ben Alderson-Day&lt;/span&gt;, &lt;span &gt;
+      Jamie Moffatt&lt;/span&gt;, &lt;span &gt;
+      Marco Bernini&lt;/span&gt;, &lt;span &gt;
+      Kaja Mitrenga&lt;/span&gt;, &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Charles Fernyhough&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://boyao.science/publication/2020-ambmyf-jocn/&#34;&gt;Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network&lt;/a&gt;.
+  &lt;em&gt;Journal of Cognitive Neuroscience, 32&lt;/em&gt;(9), 1637-1653.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2020-ambmyf-jocn/2020-AMBMYF-JoCN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1162/jocn_a_01571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Christoph Scheepers&lt;/span&gt;
+  &lt;/span&gt;
+  (2015).
+  &lt;a href=&#34;https://boyao.science/publication/2015-ys-eaipisp/&#34;&gt;Inner voice experiences during processing of direct and indirect speech&lt;/a&gt;.
+  in Frazier, L., &amp;amp; Gibson, E. (Ed.), &lt;em&gt;Explicit and Implicit Prosody in Sentence Processing&lt;/em&gt; (pp. 287-307). Springer..
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2015-ys-eaipisp/2015-YS-EaIPiSP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1007/978-3-319-12961-7_15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Christoph Scheepers&lt;/span&gt;
+  &lt;/span&gt;
+  (2011).
+  &lt;a href=&#34;https://boyao.science/publication/2011-ys-cognition/&#34;&gt;Contextual modulation of reading rate for direct versus indirect speech quotations&lt;/a&gt;.
+  &lt;em&gt;Cognition, 121&lt;/em&gt;(3), 447-453.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2011-ys-cognition/2011-YS-Cognition.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1016/j.cognition.2011.08.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      Bo Yao&lt;/span&gt;, &lt;span &gt;
+      Pascal Belin&lt;/span&gt;, &lt;span &gt;
+      Christoph Scheepers&lt;/span&gt;
+  &lt;/span&gt;
+  (2011).
+  &lt;a href=&#34;https://boyao.science/publication/2011-ybs-jocn/&#34;&gt;Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex&lt;/a&gt;.
+  &lt;em&gt;Journal of Cognitive Neuroscience, 23&lt;/em&gt;(10), 3146-3152.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://boyao.science/publication/2011-ybs-jocn/2011-YBS-JoCN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1162/jocn_a_00022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consciousness</title>
+      <link>https://boyao.science/research/consciousness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/research/consciousness/</guid>
+      <description>&lt;p&gt;Ahhh consciousness, the most baffling mystery in the science of the mind. There is nothing that we know more intimately than conscious experience, but there is nothing that is harder to explain.&lt;/p&gt;
+&lt;p&gt;Indeed, why do we experience consciousness? Why hasn’t evolution produced a bunch of ‘intelligent’ robots without it? Philosophers argue that human consciousness is underpinned by our unique abilities to become self-aware and to develop a concept of the self (e.g., with identities, values and goals) and many believe that self-awareness is generated by language, which is often expressed in inner speech (e.g., &amp;ldquo;I am angry&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;Consciousness is a broad subject, so we try to understand it in the special case of auditory verbal hallucinations (AVHs). AVHs are &amp;lsquo;distorted&amp;rsquo; conscious experiences of hearing voices that don&amp;rsquo;t exist in the outside world. Evidently these voices must be generated by the brain but aren&amp;rsquo;t recognised as coming from &amp;rsquo;the self&amp;rsquo;. How so?&lt;/p&gt;
+&lt;p&gt;To understand this better, we build paradigms that can experimentally induce hallucination-like responses, such as detecting a spoken word in noise when no word is spoken. We tweak different parameters of the paradigms and see what factors can increase or decrease false perception of speech and explore how they are implemented neurocomputationally. By doing so, we can test to what extend our conscious reality is driven by expectation (what the brain wants to experience) and how much is supported by perception (what the brain receives from the senses).&lt;/p&gt;
+&lt;p&gt;As usual, many questions remain unanswered at this point of history:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To what extend are verbal halluciantions mis-attribuetd inner speech vs. intrusive memories of speech vs. mis-interpretation speech perception?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do hallucinators experience the self differently from non-hallucinators?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do people with language disorders (e.g., dyslexia, aphasia) experience the self differently?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Can you generate self-awareness in artificial intelligence by giving it a form of natural language?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If consciousness is something that tickles your fancy, please do &lt;a href=&#34;mailto:b.yao1@lancaster.ac.uk&#34;&gt;get in touch&lt;/a&gt; for a chat :)&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/inner-speech/&#34;&gt;Last Topic (Inner Speech)&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://boyao.science/research/&#34;&gt;Back to Research&lt;/a&gt;&lt;br&gt;
+-&amp;ndash;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://boyao.science/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://boyao.science/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Join the Lab</title>
+      <link>https://boyao.science/epic-lab/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/epic-lab/</guid>
+      <description>&lt;p&gt;Welcome to EPIC lab!&lt;/p&gt;
+&lt;p&gt;We are based at Lancaster University, United Kingdom.&lt;/p&gt;
+&lt;p&gt;It has a vibrant and beautiful campus.&lt;/p&gt;
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+&lt;a href=&#34;&#34;&gt;Bo Yao&lt;/a&gt;
+&lt;h2 id=&#34;facilities&#34;&gt;Facilities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A fleet of&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://boyao.science/privacy/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/privacy/</guid>
+      <description>&lt;p&gt;I am privacy-conscious, and I am against any form of non-essential personal data collection.&lt;/p&gt;
+&lt;p&gt;This site is a static site (it is just like a bunch of posters on show). It has no scripts and does not collect any information from you.&lt;/p&gt;
+&lt;p&gt;Note: if you email me, you inevitably reveal your email address and your name (not necessarily your real name), which are necessary for communication but are not considered sensitive information.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;h2 id=&#34;a-little-segway&#34;&gt;A Little Segway&lt;/h2&gt;
+&lt;p&gt;If you are interested in preserving a bit of privacy where you can, you could check out &lt;a href=&#34;https://www.privacytools.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.privacytools.io/&lt;/a&gt; for a list of privacy-focused apps and services than you could try. In principle, use &lt;a href=&#34;https://en.wikipedia.org/wiki/End-to-end_encryption&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;end-to-end-encryption&lt;/a&gt; (E2EE) apps and services wherever you can, block tracking when browsing the web and limit apps&amp;rsquo; access to your phone&amp;rsquo;s sensors as much as possible (or turn the sensors off completely).&lt;/p&gt;
+&lt;p&gt;Have fun and enjoy the internet the way it&amp;rsquo;s meant to be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading direct speech quotes increases theta phase-locking: Evidence for cortical tracking of inner speech?</title>
+      <link>https://boyao.science/publication/2021-ytbk-neuroimage/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2021-ytbk-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title>
+      <link>https://boyao.science/publication/2021-y-jocognition/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2021-y-jocognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://boyao.science/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title>
+      <link>https://boyao.science/publication/2020-ambmyf-jocn/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2020-ambmyf-jocn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Glasgow Norms: Ratings of 5,500 words on nine scales</title>
+      <link>https://boyao.science/publication/2019-skbys-brm/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2019-skbys-brm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://boyao.science/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>https://boyao.science/search/</guid>
-      <description>search</description>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title>
+      <link>https://boyao.science/publication/2018-ys-cognition/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2018-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘It’s hard to write a good article’: The online comprehension of excuses as indirect replies</title>
+      <link>https://boyao.science/publication/2018-swlyh-qjep/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2018-swlyh-qjep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehension of indirect requests is influenced by their degree of imposition</title>
+      <link>https://boyao.science/publication/2018-slwyh-discourseprocesses/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2018-slwyh-discourseprocesses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential emotional processing in concrete and abstract words</title>
+      <link>https://boyao.science/publication/2018-ykbsos-jeplmc/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2018-ykbsos-jeplmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the limits of contextual constraint: Interactions with word frequency and parafoveal preview during fluent reading</title>
+      <link>https://boyao.science/publication/2018-shsyo-qjep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2018-shsyo-qjep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://boyao.science/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Walking blindfolded unveils unique contributions of behavioural approach and inhibition to lateral spatial bias</title>
+      <link>https://boyao.science/publication/2016-wavy-cognition/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2016-wavy-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion word processing: Does mood make a difference?</title>
+      <link>https://boyao.science/publication/2015-ssyto-frontierpsych/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2015-ssyto-frontierpsych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner voice experiences during processing of direct and indirect speech</title>
+      <link>https://boyao.science/publication/2015-ys-eaipisp/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2015-ys-eaipisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Familiarity with interest breeds gossip: Contributions of emotion, expectation, and reputation</title>
+      <link>https://boyao.science/publication/2014-ysmos-plosone/</link>
+      <pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2014-ysmos-plosone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic size of abstract concepts: It gets emotional when you can’t see it</title>
+      <link>https://boyao.science/publication/2013-yvwsos-plosone/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2013-yvwsos-plosone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain ‘talks over’ boring quotes: Top-down activation of voice-selective areas while listening to monotonous direct speech quotations</title>
+      <link>https://boyao.science/publication/2012-ybs-neuroimage/</link>
+      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2012-ybs-neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual modulation of reading rate for direct versus indirect speech quotations</title>
+      <link>https://boyao.science/publication/2011-ys-cognition/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2011-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex</title>
+      <link>https://boyao.science/publication/2011-ybs-jocn/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2011-ybs-jocn/</guid>
+      <description></description>
     </item>
     
   </channel>

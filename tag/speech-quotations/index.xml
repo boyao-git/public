@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech quotations | Bo Yao</title>
+    <link>https://boyao.science/tag/speech-quotations/</link>
+      <atom:link href="https://boyao.science/tag/speech-quotations/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech quotations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boyao.science/media/icon_hu97d1e4cfeca1899ab2d337d9f34dabe3_3591_512x512_fill_lanczos_center_3.png</url>
+      <title>speech quotations</title>
+      <link>https://boyao.science/tag/speech-quotations/</link>
+    </image>
+    
+    <item>
+      <title>Mental simulations of phonological representations are causally linked to silent reading of direct versus indirect speech</title>
+      <link>https://boyao.science/publication/2021-y-jocognition/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2021-y-jocognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing speech and thoughts during silent reading: Direct reference effects for speech by fictional characters in voice-selective auditory cortex and a Theory-of-Mind network</title>
+      <link>https://boyao.science/publication/2020-ambmyf-jocn/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2020-ambmyf-jocn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct speech quotations promote low relative-clause attachment in silent reading of English</title>
+      <link>https://boyao.science/publication/2018-ys-cognition/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://boyao.science/publication/2018-ys-cognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
